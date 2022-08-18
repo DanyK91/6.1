@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Kalkulator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Kalkulator" target="17" />
       <module name="kodilla-course.kodilla-course.main" target="17" />
       <module name="kodilla-course.kodilla-course.test" target="17" />
       <module name="kodilla-course.untitled" target="17" />
